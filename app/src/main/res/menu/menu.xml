@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/converter"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_compare_arrows_24"
+        android:title="Конвертер"/>
+    <item
+        android:id="@+id/history"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_history_24"
+        android:title="История"/>
+    <item
+        android:id="@+id/exchange_rates"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_bar_chart_24"
+        android:title="Курсы валют" />
+</menu>
